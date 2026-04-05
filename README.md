@@ -439,6 +439,14 @@ Add commands in `commands/*.md`, hooks in `hooks/hooks.json`, agents in `agents/
 
 ---
 
+## 🔍 Similar Projects Research
+
+Curious how OpenHarness compares to other Harness projects, learning resources, and implementations on GitHub?
+
+📄 **[GitHub 同类项目全面调研报告](docs/similar-projects-research.md)** — A comprehensive survey of 11 related projects (learn-claude-code, nano-claude-code, sourcemap-notebook, and more), with feature comparisons, pros/cons, and learning path recommendations.
+
+---
+
 ## 🤝 Contributing
 
 OpenHarness is a **community-driven research project**. We welcome contributions in:
